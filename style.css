@@ -1,0 +1,91 @@
+body{
+  background-color: #80bfff;
+}
+
+.nav {
+  position: relative;
+  background: white;
+  overflow: hidden;
+  padding: 10px 15px 10px 10px;
+  text-align: right;
+  margin: 0 auto;
+}
+
+.about-us{
+  text-transform: uppercase;
+  outline: 0;
+  background: #0066ff;
+  border: 0;
+  padding: 15px;
+}
+
+.about-us a{
+  text-transform: uppercase;
+  outline: 0;
+  background: #0066ff;
+  border: 0;
+  padding: 15px;
+  Color: #fff;
+  Text-decoration: none;
+}
+
+.register{
+  text-transform: uppercase;
+  outline: 0;
+  background: #0066ff;
+  border: 0;
+  padding: 15px;
+}
+
+.register a{
+  text-transform: uppercase;
+  outline: 0;
+  background: #0066ff;
+  border: 0;
+  padding: 15px;
+  Color: #fff;
+  Text-decoration: none;
+}
+  
+form{
+  position: relative;
+  max-width: 300px;
+  z-index: 1;
+  background-color: white;
+  display: inline block;
+  text-align: center;
+  margin: 21px auto;
+  padding: 25px;
+  box-shadow: 1px 1px #888888;
+}
+
+h1{
+  color: black;
+  text-align: left;
+  padding: 0px;
+}
+
+.form-input{
+  font-family: "Roboto", sans-serif;
+  outline: 1;
+  background: #f2f2f2;
+  width: 100%;
+  border: 0;
+  margin: 0 0 15px;
+  padding: 15px;
+  box-sizing: border-box;
+  font-size: 14px;
+  box-shadow: 1px 1px #888888;
+}
+
+.submit{
+  font-family: "Roboto", sans-serif;
+  text-transform: uppercase;
+  outline: 0;
+  background: #0066ff;
+  width: 100%;
+  border: 0;
+  padding: 15px;
+  Color: white;
+  box-shadow: 1px 1px #888888;
+}
